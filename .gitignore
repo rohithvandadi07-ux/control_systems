@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# MATLAB temporary files
+*.asv
+*.m~
+*.autosave
+
+# Simulink generated/cache files
+slprj/
+*.slxc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
